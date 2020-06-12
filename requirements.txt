@@ -1,0 +1,6 @@
+Flask
+redis
+pandas
+plotly
+dash
+dash-daq
